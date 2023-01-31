@@ -1,4 +1,4 @@
-# 2. Discovering Powershell 
+# Discovering Powershell 
 
 ## Running Commands 
 
@@ -39,7 +39,7 @@ Get only the properties of an object (*for lack of a better term*)
 
 `Get-Date | Select-Object -Property`
 
-# 3. Using Powershell 
+# Using Powershell 
 
 ## Finding and Using Modules 
 
@@ -50,7 +50,6 @@ Get only the properties of an object (*for lack of a better term*)
 - `Get-Service`
 - `Get-Help`
 
-[^1]
 
 **Listing Modules** 
 
@@ -68,7 +67,7 @@ To get all modules availible, run:
 
 `Get-Module -ListAvailible`
 
-## Functions[^2]
+## Functions
 
 **Understanding Functions**
 

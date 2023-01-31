@@ -1,4 +1,4 @@
-# 8. Get Scripting
+# Get Scripting
 # Building Tools: Gathering Information 
 
 # Namespace 
